@@ -1,9 +1,9 @@
-const cacheName = "XEX-XEX-Game-0.1.27";
+const cacheName = "XEX-XEX-Game-0.1.28";
 const contentToCache = [
-    "Build/Xex Crypto Game WebGL Build-V(0.1.27) 20-05-2025.loader.js",
-    "Build/Xex Crypto Game WebGL Build-V(0.1.27) 20-05-2025.framework.js",
-    "Build/Xex Crypto Game WebGL Build-V(0.1.27) 20-05-2025.data",
-    "Build/Xex Crypto Game WebGL Build-V(0.1.27) 20-05-2025.wasm",
+    "Build/Xex Crypto Game WebGL Build-V(0.1.28) 05-06-2025.loader.js",
+    "Build/Xex Crypto Game WebGL Build-V(0.1.28) 05-06-2025.framework.js",
+    "Build/Xex Crypto Game WebGL Build-V(0.1.28) 05-06-2025.data",
+    "Build/Xex Crypto Game WebGL Build-V(0.1.28) 05-06-2025.wasm",
     "TemplateData/style.css"
 
 ];
